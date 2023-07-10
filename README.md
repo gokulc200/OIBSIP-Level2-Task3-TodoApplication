@@ -11,7 +11,7 @@
 🔵 Bootstrap<br/>
 🔵 Flexbox<br/>
 🔵 Font Awesome Icons<br/>
-🟡VSCode Editor
+🟡 VSCode Editor
 
 <h1>Technology Stack 💻</h1>
 The Todo Application utilizes the following technologies:
