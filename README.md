@@ -8,6 +8,7 @@
 🔴 HTML<br/>
 🔴 CSS<br/>
 🔴 JavaScript<br/>
+🔵 Client Storage<br/>
 🔵 Bootstrap<br/>
 🔵 Flexbox<br/>
 🔵 Font Awesome Icons<br/>
@@ -16,9 +17,9 @@
 <h1>Technology Stack 💻</h1>
 The Todo Application utilizes the following technologies:
 
-🟣HTML5: Provides the structure and markup of the application's user interface.<br/>
-🟣CSS3: Handles the styling and visual presentation of the application.<br/>
-🟣JavaScript: Enables dynamic and interactive functionality, task manipulation, and local storage management.
+🟣 HTML: Provides the structure and markup of the application's user interface.<br/>
+🟣 CSS: Handles the styling and visual presentation of the application.<br/>
+🟣 JavaScript: Enables dynamic and interactive functionality, task manipulation, and local storage management.
 
 <h1>Features</h1>
 The Todo Application offers the following key features:
